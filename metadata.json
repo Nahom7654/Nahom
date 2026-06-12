@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Telebirr Pay",
+  "description": "Telebirr merchant payments, dynamic verification secure flow, and rich transaction receipt history",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
